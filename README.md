@@ -89,7 +89,8 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 若您覺得此字型能幫助到您，麻煩贊助一下吧Q_Q
 
 ### 直排字型鼓勵支持：
-請[點這裡](https://portaly.cc/tylin23/support))。
+小小創作改版，歡迎贊助鼓勵。
+請[點這裡](https://portaly.cc/tylin23/support)。
 
 ### 原字體作者個人資訊：
 維護開源字型工程浩大，有足夠的支持，才有持續改版、精進的空間。
