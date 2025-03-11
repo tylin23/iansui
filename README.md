@@ -16,8 +16,8 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 由於原 Klee 的 Regular 偏細而預估使用需求較低，本專案以原 SemiBold 為底製作。
 
 ## 最新版本與下載方式
-* 直排芫荽最新版本為 3.1（2025.03）
-請至 fonts/tff > [直排字型](fonts/ttf/直排字型) 內下載 H-Iansui-Regular-3.1.tff 字型檔案。
+* 偽直排芫荽最新版本為 3.1（2025.03）
+請至 fonts/tff > [偽直排字型](fonts/ttf/直排字型) 內下載 H-Iansui-Regular-3.1.tff 字型檔案。
 
 * 原版芫荽最新版本為 1.011。(2025.03)
 請[點此](https://github.com/ButTaiwan/iansui/blob/main/ChangeLog.md)查看1.011詳細異動紀錄。
@@ -65,7 +65,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 4. 本頁面圖片提供：王皓梅、陳建中
 
 ## 開源授權規定
-* **本直排字型**基於 SIL Open Font License 1.1，改造 ButTaiwan 發佈的 [iansui](https://github.com/ButTaiwan/iansui) 開源專案。
+* **本偽直排字型**基於 SIL Open Font License 1.1，改造 ButTaiwan 發佈的 [iansui](https://github.com/ButTaiwan/iansui) 開源專案。
 * 本字型基於 SIL Open Font License 1.1，改造 Fontworks 發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源專案。
 * Klee 是 Fontworks 的商標。
 * 任何人可以無償使用此字型，包含商用。無須告知原作者。
@@ -88,7 +88,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 ## 請斗內QQ
 若您覺得此字型能幫助到您，麻煩贊助一下吧Q_Q
 
-### 直排字型鼓勵支持：
+### 偽直排字型鼓勵支持：
 小小創作改版，歡迎贊助鼓勵。
 請[點這裡](https://portaly.cc/tylin23/support)。
 
