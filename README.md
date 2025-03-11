@@ -20,7 +20,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 請至 fonts/tff > [直排字型](fonts/ttf/直排字型) 內下載 H-Iansui-Regular-3.1.tff 字型檔案。
 
 * 原版芫荽最新版本為 1.011。(2025.03)
-請[點此](https://github.com/ButTaiwan/iansui/ChangeLog.md)查看1.011詳細異動紀錄。
+請[點此](https://github.com/ButTaiwan/iansui/blob/main/ChangeLog.md)查看1.011詳細異動紀錄。
 請點選「[Releases](https://github.com/ButTaiwan/iansui/releases)」處的最新發行版本，下載 iansui.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
 
 ## 收錄字數
