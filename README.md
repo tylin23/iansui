@@ -65,7 +65,7 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 4. 本頁面圖片提供：王皓梅、陳建中
 
 ## 開源授權規定
-
+* **本直排字型**基於 SIL Open Font License 1.1，改造 ButTaiwan 發佈的 [iansui](https://github.com/ButTaiwan/iansui) 開源專案。
 * 本字型基於 SIL Open Font License 1.1，改造 Fontworks 發佈的 [Klee](https://github.com/fontworks-fonts/Klee) 開源專案。
 * Klee 是 Fontworks 的商標。
 * 任何人可以無償使用此字型，包含商用。無須告知原作者。
@@ -91,6 +91,6 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 ###直排字型鼓勵支持：
 請[點這裡](https://portaly.cc/tylin23/support))。
 
-###字體原作者個人資訊：
+###原字體作者個人資訊：
 維護開源字型工程浩大，有足夠的支持，才有持續改版、精進的空間。
 信用卡（含國際信用卡）、超商條碼、超商代收，請 [點這裡](https://p.ecpay.com.tw/930AED7) 。
