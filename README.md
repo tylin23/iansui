@@ -16,10 +16,12 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 由於原 Klee 的 Regular 偏細而預估使用需求較低，本專案以原 SemiBold 為底製作。
 
 ## 最新版本與下載方式
+* 直排芫荽最新版本為 3.1（2025.03）
+請至 fonts/tff > 直排字型 內下載 H-Iansui-Regular-3.1.tff 字型檔案。
 
-目前最新版本為 1.011，請[點此](ChangeLog.md)查看詳細異動紀錄。
-
-請點選本頁面右側「[Releases](https://github.com/ButTaiwan/iansui/releases)」處的最新發行版本，下載 iansui.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
+* 原版芫荽最新版本為 1.011。(2025.03)
+請[點此](ChangeLog.md)查看1.011詳細異動紀錄。
+請點選「[Releases](https://github.com/ButTaiwan/iansui/releases)」處的最新發行版本，下載 iansui.zip。解壓縮後安裝裡面的 .ttf 字型檔案即可。
 
 ## 收錄字數
 
@@ -84,9 +86,11 @@ Fontworks 的 Klee（クレー）字型原本內建於 macOS，因其兼具楷�
 - [國字標準字體教師手冊](https://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/STD/c4.htm?open)
 
 ## 請斗內QQ
+若您覺得此字型能幫助到您，麻煩贊助一下吧Q_Q
 
-個人維護開源字型工程浩大，有足夠的支持，才有持續改版、精進的空間。若您覺得此字型能幫助到您，麻煩贊助一下吧Q_Q
+###直排字型鼓勵支持：
+請[點這裡](https://portaly.cc/tylin23/support))。
 
-![請斗內](img/donatation240425.png)
-
+###字體原作者個人資訊：
+維護開源字型工程浩大，有足夠的支持，才有持續改版、精進的空間。
 信用卡（含國際信用卡）、超商條碼、超商代收，請 [點這裡](https://p.ecpay.com.tw/930AED7) 。
